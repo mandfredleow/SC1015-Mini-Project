@@ -1,7 +1,7 @@
 # SC1015-Mini-Project
 
 ### Members: 
-Deon Lim Kian Yong U2122170K,
+Deon Lim Kian Yong U2122170K <br />
 Mandfred Leow Hong Jie U2122023G
 
 This mini project aims to show what we have learnt from the art and craft of Data Science - from Problem Formulation, Data Preparation, Exploratory Analysis,
