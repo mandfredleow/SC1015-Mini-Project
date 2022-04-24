@@ -11,6 +11,22 @@ Pattern Recognition to Machine Learning. The source of the data we used was gott
 Our aim in this mini-project is to implement a Linear Regression Model, using a dataset to determine or form some sort of range of prices, what quantify as a 
 reasonable price range for a used car should be.
 
+File:
+Notebook/MiniProjectipynb
+Our main mini project Notebook
+
+Notebook/MiniProjWebScraper.ipynb
+Our Web-scraper Notebook
+
+SC1015 MiniProject.docx
+A rough documentation/walkthrough of our project
+
+sgcarmart_used_cars_prices.csv
+The dataset obtained from using the web-scraper
+
+sgcarmart_webscraper_functions.py
+The functions used for web-scraping
+
 
 Reference: 
 We reference our web-scraper code from a github repository: 
