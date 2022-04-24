@@ -1,6 +1,6 @@
 # SC1015-Mini-Project
 
-###### Members: 
+### Members: 
 Deon Lim Kian Yong U2122170K,
 Mandfred Leow Hong Jie U2122023G
 
@@ -11,7 +11,7 @@ Pattern Recognition to Machine Learning. The source of the data we used was gott
 Our aim in this mini-project is to implement a Linear Regression Model, using a dataset to determine or form some sort of range of prices, what quantify as a 
 reasonable price range for a used car should be.
 
-###### File:
+### File:
 Notebook/MiniProjectipynb
 Our main mini project Notebook
 
