@@ -12,19 +12,19 @@ Our aim in this mini-project is to implement a Linear Regression Model, using a 
 reasonable price range for a used car should be.
 
 ### File:
-##### Notebook/MiniProjectipynb <br />
+#### Notebook/MiniProjectipynb: <br />
 Our main mini project Notebook
 
-##### Notebook/MiniProjWebScraper.ipynb <br />
+#### Notebook/MiniProjWebScraper.ipynb: <br />
 Our Web-scraper Notebook
 
-##### SC1015 MiniProject.docx <br />
+#### SC1015 MiniProject.docx: <br />
 A rough documentation/walkthrough of our project
 
-##### sgcarmart_used_cars_prices.csv <br />
+#### sgcarmart_used_cars_prices.csv: <br />
 The dataset obtained from using the web-scraper
 
-##### sgcarmart_webscraper_functions.py <br />
+#### sgcarmart_webscraper_functions.py: <br />
 The functions used for web-scraping
 
 
