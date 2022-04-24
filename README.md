@@ -28,6 +28,5 @@ sgcarmart_webscraper_functions.py
 The functions used for web-scraping
 
 
-Reference: 
-We reference our web-scraper code from a github repository: 
-https://github.com/xianjinseow92/Data-Science-Projects/blob/master/Project_2_SgCarMart%20Price%20Prediction/src/sgcarmart_webscraper_functions.py
+### Reference: 
+We reference our web-scraper code from a [github repository](https://github.com/xianjinseow92/Data-Science-Projects/blob/master/Project_2_SgCarMart%20Price%20Prediction/src/sgcarmart_webscraper_functions.py)
